@@ -11,8 +11,11 @@ A sleek, modern starter for **React 19**, **TypeScript**, **Vite**, **TailwindCS
   
 ## ⚡ Features
 ✅ **Fast Dev:** Powered by **Vite** + **SWC** for blazing-fast HMR.
+
 🎨 **Modern Stack:** React 19, TypeScript, TailwindCSS.
+
 ✨ **Pretty UI:**  **shadcn/ui** components with a clean gradient vibe.
+
 🚀 **Production-Ready:** Optimized build process out of the box.
  
  ----
@@ -48,9 +51,13 @@ npm  run  build
 ## 📦 What's Included
 
 ✅ Vite with @vitejs/plugin-react-swc for fast refresh ⚡
+
 ✅ TailwindCSS with animation support 🎨
+
 ✅ shadcn/ui components (Button, Card, Avatar, etc.) 🧩
+
 ✅ Lucide Icons for clean, modern visuals ✨
+
 ✅ ESLint with basic React rules 🧹
 
 ---
@@ -60,12 +67,19 @@ npm  run  build
 📦 reactts-tailwind-shad-boilerplate
 
 ├── 📂 src/
+
 │ ├── 📂 assets/ # Static files (e.g., images)
+
 │ ├── 📂 components/ # shadcn/ui components & custom ones
+
 │ ├── 📄 App.tsx # Main app component
+
 │ └── 📄 main.tsx # Entry point
+
 ├── 📄 eslint.config.js # ESLint config
+
 ├── 📄 vite.config.ts # Vite config
+
 └── 📄 package.json # Dependencies & scripts
 
 ---
@@ -133,16 +147,18 @@ export default tseslint.config({
 ---
 
 ## 🌟 Why This Boilerplate?
-
 🔥 Minimal setup – Start coding right away.
+
 🎨 Cool gradient aesthetic – Looks great by default.
+
 ⚡ Built by Beki – Ready for production use.
 
 ---
 
 ## 📝 Notes
-
 Uses React 19 – Check the docs for the latest features.
+
 SWC replaces Babel for faster builds (@vitejs/plugin-react-swc).
+
 
 <p align="center"> Built with ⚡️ by <b>Beki</b> · 2025 · Free Open-source </p>
